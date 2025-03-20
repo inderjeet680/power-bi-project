@@ -1,2 +1,2 @@
 # power-bi-project
-Flipcart dashboard project
+Flipkart Sales dashboard project
